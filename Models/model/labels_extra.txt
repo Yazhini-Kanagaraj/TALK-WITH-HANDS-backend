@@ -1,0 +1,5 @@
+0 Z
+1 HI
+2 MY
+3 SPACE
+4 RIGHT
