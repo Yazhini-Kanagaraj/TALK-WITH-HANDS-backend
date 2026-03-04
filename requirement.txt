@@ -5,5 +5,5 @@ fastapi
 websockets
 numpy
 cvzone
-uvicorn
+uvicorn[standard]      # ensure workers are installed
 python-multipart==0.0.6
