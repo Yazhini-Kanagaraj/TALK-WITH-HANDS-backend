@@ -1,4 +1,4 @@
-mediapipe
+mediapipe==0.10.32
 tensorflow==2.15.0
 opencv-python
 fastapi
@@ -6,4 +6,4 @@ websockets
 numpy
 cvzone
 uvicorn
-python-multipart
+python-multipart==0.0.6
