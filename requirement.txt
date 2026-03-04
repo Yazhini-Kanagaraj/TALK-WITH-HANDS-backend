@@ -1,11 +1,8 @@
 mediapipe
-tensorflow
 opencv-python
 fastapi
 websockets
 numpy
-math
 cvzone
-cors
 uvicorn
 python-multipart
